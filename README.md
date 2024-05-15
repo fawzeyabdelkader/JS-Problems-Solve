@@ -99,6 +99,7 @@ Percentage >= 60%: Grad D
 Percentage >= 40%: Grad E
 Percentage < 40%: Grad F
 ******************************** Using switch case*******************************
+
 15- Write a program to print total number of days in month
 16- Write a program to check whether an alphabet is vowel or consonant
 17- Write a program to find maximum between two numbers
